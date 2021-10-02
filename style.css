@@ -1,5 +1,5 @@
 body {
-
+background-color: beige;
     margin: 0;
   
     padding: 0;
@@ -82,17 +82,13 @@ body {
     }
   
   }
-  
-  
-  
-  
+    
   .coin:last-child {
   
     margin-left: auto;
   
   }
-  
-  
+   
   
   
   img {
@@ -101,9 +97,7 @@ body {
   
     max-height: 100%;
   
-  }
-  
-  
+  } 
   
   
   .leftBody {
@@ -112,7 +106,7 @@ body {
   
     height: 500px;
   
-    background-color: purple;
+    background-color: rgb(173, 190, 15);
   
   }
   
@@ -131,7 +125,7 @@ body {
   
     margin: 0 auto;
   
-    background-image: url("./images/usa1.png");
+    background-image: url("https://github.com/anastassiyas/COPYCAT/blob/main/image/usa1.png?raw=true");
   
     background-repeat: no-repeat;
   
